@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Mayank Arya</h1>
-<h3 align="center">Self-motivated and inspiring a Node.js backend developer with 1200+ hours of hands-on codding experience. looking for a challenging growth-oriented organization</h3>
+<h3 align="center">A Self-motivated and inspiring a Node.js backend developer with 1200+ hours of hands-on codding experience. looking for a challenging growth-oriented organization</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-arya&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-arya" /> </p>
 
