@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JavaScript,Node.js, express, mongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mayank-Arya?tab=repositories](https://github.com/Mayank-Arya?tab=repositories)
+- 👨‍💻 Some of my projects are available at my [Portfolio](Mayank-Arya.gihub.io)
 
 - 💬 Ask me about **JavaScript, Node.js, express, mongoDB**
 
