@@ -25,7 +25,8 @@
   - ✳️: I'm currently learning Node, express, mongoDB
   - 👨‍🦱: Want to know more about me <a href="https://Mayank-Arya.github.io/">PortFolio</a>
   - 💬: Ask me about: <b>Backend</b>,<b>Node</b>,<b>RestAPI</b>,<b>Frontend</b>
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-arya-9b5499244/)[![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](ma8183468@gmail.com)
+  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-arya-9b5499244/)       [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](ma8183468@gmail.com)
+  - 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1tXnpfvtHCjB9pX-ALMMHWhy0rRx-CE_w/view?usp=sharing)
   
   
   ### :hammer_and_wrench: Languages and Tools :
