@@ -51,6 +51,8 @@
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank-arya&show_icons=true&theme=dark"/>
      <br>
      <br>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-arya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+ <br>
     <br>
      <img align="center" src="https://github-profile-trophy.vercel.app/?username=mayank-arya&theme=monokai&row=1&column=4">
   </p>
