@@ -23,10 +23,10 @@
   As a Full Stack Developer, I have experience working on both the front-end and back-end of web applications. I'm comfortable working with HTML, CSS, and JavaScript to create responsive and dynamic user interfaces. On the back-end, I have experience working with Node.js and Express.js to build RESTful APIs and server-side applications. I also have experience working with MongoDB as a NoSQL database.
   
   - ✳️: I'm currently learning Node, express, mongoDB
-  - 👨‍🦱: Want to know more about me <a href="https://Mayank-Arya.github.io/">PortFolio</a>
+  - 👨‍🦱: Want to know more about me [resume](https://drive.google.com/file/d/1tXnpfvtHCjB9pX-ALMMHWhy0rRx-CE_w/view?usp=sharing)
   - 💬: Ask me about: <b>Backend</b>,<b>Node</b>,<b>RestAPI</b>,<b>Frontend</b>
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-arya-9b5499244/)       [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](ma8183468@gmail.com)
-  - 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1tXnpfvtHCjB9pX-ALMMHWhy0rRx-CE_w/view?usp=sharing)
+  - 📄 Know about my experiences [portfolio](https://Mayank-Arya.github.io/)
   
   
   ### :hammer_and_wrench: Languages and Tools :
